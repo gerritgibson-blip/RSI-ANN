@@ -1,0 +1,51 @@
+Wed Nov 18 12:49:53 UTC 2026 chunk done: time_budget
+Wed Nov 18 14:53:35 UTC 2026 chunk done: time_budget
+Wed Nov 18 16:52:53 UTC 2026 chunk done: time_budget
+Wed Nov 18 18:49:13 UTC 2026 chunk done: time_budget
+Wed Nov 18 21:00:38 UTC 2026 chunk done: time_budget
+Wed Nov 18 23:20:18 UTC 2026 chunk done: time_budget
+Thu Nov 19 00:18:23 UTC 2026 restarted driver after container restart
+Thu Nov 19 02:31:02 UTC 2026 chunk done: time_budget
+Thu Nov 19 04:30:00 UTC 2026 chunk done: time_budget
+Thu Nov 19 06:37:23 UTC 2026 chunk done: time_budget
+Thu Nov 19 08:55:10 UTC 2026 chunk done: time_budget
+Thu Nov 19 09:03:40 UTC 2026 chunk done: all_tasks_at_max_level
+DONE Thu Nov 19 09:03:40 UTC 2026
+Thu Nov 19 09:20:17 UTC 2026 caps raised: MAX_LEVEL 160, MAX_LAYERS 16
+Thu Nov 19 11:37:50 UTC 2026 chunk done: time_budget
+Thu Nov 19 14:07:42 UTC 2026 chunk done: time_budget
+crash rc=143 Thu Nov 19 14:21:31 UTC 2026
+Thu Nov 19 16:31:38 UTC 2026 chunk done: time_budget
+Thu Nov 19 18:36:54 UTC 2026 chunk done: time_budget
+Thu Nov 19 20:45:40 UTC 2026 chunk done: time_budget
+Thu Nov 19 23:12:46 UTC 2026 chunk done: time_budget
+Fri Nov 20 00:20:34 UTC 2026 restarted driver after container restart
+Fri Nov 20 03:31:54 UTC 2026 restarted driver after container restart
+Fri Nov 20 05:57:55 UTC 2026 chunk done: time_budget
+Fri Nov 20 06:12:07 UTC 2026 restarted driver after container restart
+Fri Nov 20 08:54:24 UTC 2026 chunk done: time_budget
+Fri Nov 20 11:15:15 UTC 2026 chunk done: time_budget
+Fri Nov 20 13:42:09 UTC 2026 chunk done: time_budget
+Fri Nov 20 16:13:27 UTC 2026 chunk done: time_budget
+Fri Nov 20 18:41:06 UTC 2026 chunk done: time_budget
+Fri Nov 20 21:11:48 UTC 2026 chunk done: time_budget
+Fri Nov 20 23:57:06 UTC 2026 chunk done: time_budget
+Sat Nov 21 02:40:15 UTC 2026 chunk done: time_budget
+Sat Nov 21 04:57:23 UTC 2026 chunk done: time_budget
+Sat Nov 21 07:18:59 UTC 2026 chunk done: time_budget
+Sat Nov 21 09:53:19 UTC 2026 chunk done: time_budget
+Sat Nov 21 11:48:50 UTC 2026 chunk done: time_budget
+Sat Nov 21 16:48:44 UTC 2026 restarted driver after container restart
+Sat Nov 21 18:46:13 UTC 2026 chunk done: time_budget
+Sat Nov 21 20:39:51 UTC 2026 chunk done: time_budget
+Sat Nov 21 23:23:08 UTC 2026 chunk done: time_budget
+Sun Nov 22 01:14:47 UTC 2026 chunk done: time_budget
+Sun Nov 22 03:05:32 UTC 2026 chunk done: time_budget
+Sun Nov 22 03:05:40 UTC 2026 switched to capped driver (11 GB cgroup) with memory-efficiency ladder, starting at level 1
+Sun Nov 22 05:43:19 UTC 2026 chunk done: time_budget
+Sun Nov 22 08:03:12 UTC 2026 chunk done: time_budget
+crash rc=143 Sun Nov 22 09:24:36 UTC 2026
+Sun Nov 22 09:24:39 UTC 2026 restarted: ladder now remembers per-level peaks; level 0 predicted 11.2 GB at 13 layers (> cap), held at level 1
+Sun Nov 22 12:08:18 UTC 2026 chunk done: time_budget
+Sun Nov 22 14:56:27 UTC 2026 chunk done: time_budget
+Sun Nov 22 18:06:12 UTC 2026 chunk done: time_budget

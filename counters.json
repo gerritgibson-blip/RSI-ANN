@@ -1,0 +1,1 @@
+{"k": {"add": 32, "mul": 4, "sort": 4, "max": 4}, "stall": {"add": 3, "mul": 2, "sort": 0, "max": 0}, "global_stall": 2, "round": 292, "mem_level": 1, "mem_ladder": 2, "level_peaks": {"0": [10.335, 12], "1": [5.926, 14], "2": [5.07, 13], "3": [3.24, 13]}}
