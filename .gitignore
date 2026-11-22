@@ -1,0 +1,5 @@
+# full training checkpoints include the self-generated replay buffer (100+ MB); not tracked
+ckpt*.pt
+*.tmp
+__pycache__/
+run.out
